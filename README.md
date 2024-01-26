@@ -29,8 +29,8 @@ Whether it's manual testing or diving into the world of automation, I'm on a mis
   - Weekend part-time courses
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rafalrakszewski)
-- Email: rakszewski@gmail.com
+- LinkedIn: www.linkedin.com/in/rafalrakszewski
+- Email: rakszewski@gmail.com  
 
 Thank you for visiting my GitHub! 🚀
 
